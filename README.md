@@ -6,7 +6,7 @@ This application allows users to view and manage the departments, roles, and emp
 
 ## Usage
 
-View video link for instructions
+View video link for instructions https://drive.google.com/file/d/1J5xDY2IelJaYZZlMxBrkIuXjj86wnenw/view
 
 ## Contributing
 
