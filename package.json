@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmvrisso/employee_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmvrisso/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/wmvrisso/employee_tracker#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "inquirer": "^8.2.4",
+    "pg": "^8.13.3"
+  }
+}
